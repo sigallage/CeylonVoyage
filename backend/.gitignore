@@ -28,6 +28,7 @@ env/
 
 # Environment variables
 .env
+.venv
 
 # IDE
 .vscode/
@@ -46,3 +47,5 @@ Thumbs.db
 # Database
 *.db
 *.sqlite3
+
+backend\.venv\Scripts
